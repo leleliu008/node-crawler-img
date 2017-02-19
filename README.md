@@ -1,5 +1,5 @@
 # node-crawler-img
-这是一个使用<a href='' target='_blank'>node-crawler</a>进行抓取图片的示例。
+这是一个使用<a href='http://blog.fpliu.com/it/language/nodejs/module/third/node-crawler' target='_blank'>node-crawler</a>进行抓取图片的示例。
 <br>
 关于本示例的详细情况，请参看：<a href='http://blog.fpliu.com/it/language/nodejs/module/third/node-crawler#example' target='_blank'>http://blog.fpliu.com/it/language/nodejs/module/third/node-crawler#example</a>
 <br>
