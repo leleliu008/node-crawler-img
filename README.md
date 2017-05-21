@@ -8,7 +8,7 @@
 ## 1、安装git、node.js、npm等工具
 <a href="http://blog.fpliu.com/it/software/git" target="_blank">安装git</a><br>
 <a href="http://blog.fpliu.com/it/language/NodeJS/installation" target="_blank">安装node.js</a><br>
-<a href="http://blog.fpliu.com/it/language/NodeJS/package/npm" target="_blank">安装npm</a><br>
+<a href="http://blog.fpliu.com/it/language/NodeJS/package/npm" target="_blank">安装npm</a><br><br>
 示例：
 ```
 brew install git node npm
