@@ -6,15 +6,12 @@
 如果你对该示例感兴趣，按照下面的步骤依次执行即可。
 
 ## 1、安装git、node.js、npm等工具
-Windows用户请自行查询安装方法
-<br>
-GNU/Linux和MacOSX用户，分别可以安装LinuxBrew、HomeBrew进行安装这些工具。
-<br>
+<a href="http://blog.fpliu.com/it/software/git" target="_blank">安装git</a><br>
+<a href="http://blog.fpliu.com/it/language/NodeJS/installation" target="_blank">安装node.js</a><br>
+<a href="http://blog.fpliu.com/it/language/NodeJS/package/npm" target="_blank">安装npm</a><br>
 示例：
 ```
-brew install git
-brew install node
-brew install npm
+brew install git node npm
 ```
 ## 2、下载源码
 ```
